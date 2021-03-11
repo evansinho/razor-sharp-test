@@ -1,4 +1,4 @@
-# Series Tracker
+# Sum Hex
 
 A simple app for adding two hexidecimal values.
 
