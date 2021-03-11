@@ -4,7 +4,7 @@ import './App.css';
 
 function App() {
   return (
-    <Fragment className="App">
+    <Fragment>
       <h1>Add Hex Vales</h1>
       <SumHex />
     </Fragment>
