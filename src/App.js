@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <Fragment>
-      <h1>Add Hex Vales</h1>
+      <h1>Add Hex Values</h1>
       <SumHex />
     </Fragment>
   );
